@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>JavaScript Code Challenges</h1>
-	<h3>Collection of Microverse code challenges</h3>
+	<h3>Collection of some JavaScript code challenges</h3>
     	<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 </div>
 
@@ -11,6 +11,8 @@
 </div>
 
 ---
+
+Check each branch for different challenges and solutions.
 
 ### License
 
