@@ -1,8 +1,8 @@
 {
   "name": "javascript-coding-challenges-1",
   "version": "1.0.0",
-  "description": "<div align=\"center\"> \t<h1>JavaScript Code Challenges</h1> \t<h3>Collection of some JavaScript code challenges</h3>     \t<img src=\"https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g\"> </div>",
-  "main": "index.js",
+  "description": "Repeat a given string `str` (first argument) for `num` times (second argument). Return an empty string if `num` is not a positive number. For the purpose of this challenge, do *not* use the built-in `.repeat()` method.",
+  "main": "repeat-a-string.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
