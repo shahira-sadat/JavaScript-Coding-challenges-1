@@ -1,19 +1,7 @@
-<div align="center">
-	<h1>JavaScript Code Challenges</h1>
-	<h3>Collection of some JavaScript code challenges</h3>
-    	<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
-</div>
+# Sum All Odd Fibonacci Numbers
 
+Given a positive integer `num`, return the sum of all odd Fibonacci numbers that are less than or equal to `num`.
 
-<div align="center">
-	<p>Show your support by giving a ⭐ to this repo</p>
-	<h5>Feel free to connect with me on <a href="https://linkedin.com/in/shahira-sadat-49b402199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a></h5>
-</div>
+The first two numbers in the Fibonacci sequence are 1 and 1. Every additional number in the sequence is the sum of the two previous numbers. The first six numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8.
 
----
-
-Check each branch for different challenges and solutions.
-
-### License
-
-This repository is MIT licensed. [Read more](./LICENSE)
+For example, `sumFibs(10)` should return `10` because all odd Fibonacci numbers less than or equal to `10` are 1, 1, 3, and 5.
